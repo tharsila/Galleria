@@ -1,2 +1,2 @@
 # Galleria
-Site feito com intuito de estudar sass.
+Projeto do site Hora de Codar que foi realizado para aprendizagem de SASS.
